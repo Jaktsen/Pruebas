@@ -6,6 +6,8 @@ public class prueba {
 		
 		
 		System.out.println("Pruebas");
+		int valorUno=0;
+		
 	}
 
 }
